@@ -1,0 +1,20 @@
+# Bu depo yalnizca tanitim icindir — kod, yapilandirma ve sir barindirmaz.
+# Asagidakiler kazara eklenmeye karsi guvenlik agidir.
+
+.env
+.env.*
+*.keystore
+*.jks
+*.p8
+*.p12
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+keystore.properties
+*.sql
+*.db
+
+# Sistem
+.DS_Store
+Thumbs.db
+desktop.ini
